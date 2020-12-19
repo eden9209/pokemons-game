@@ -23,7 +23,7 @@
 <li>Enjoy...</li>
  <br/>
  <br/>
-<li>OR YOU CAN PRESS ON THE EX2.jar  </li>
+<li>Or you can press on the EX2.jar  </li>
 </ul>
 
 
