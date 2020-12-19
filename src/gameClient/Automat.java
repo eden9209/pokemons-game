@@ -9,11 +9,11 @@ import api.DWGraph_DS;
 import api.directed_weighted_graph;
 import api.game_service;
 import gameClient.CL_Pokemon;
-import gameClient.CL_Pokemon;
 import api.edge_data;
 import api.node_data;
 import gameClient.util.Point3D;
 import gameClient.util.StdDraw;
+import api.game_service;
 
 
 public class Automat {
@@ -191,7 +191,7 @@ public game_service gameAutoScenario(int s) {
 	//System.out.println(ga);
 	this.ga.dg.init(g);
 	mgg.initpokemons(game,this.ga.dg);
-	mgg.initAgents(game,this.ga.dg);
+	//mgg.initAgents(game,this.ga.dg);
 	mgg.drawDGraph();
 
 	String info = game.toString();
