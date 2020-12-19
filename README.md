@@ -20,5 +20,11 @@
 <li> Run EX2.java locate in gameClient package</li>
 <li>pick your id and after pick your Scenarios game from 0-23 </li>
 <li>Enjoy...</li>
+<li>Enjoy...</li>
+ <br/>
+ <br/>
+<li>OR YOU CAN PRESS ON THE EX2.jar  </li>
 </ul>
+
+
 
