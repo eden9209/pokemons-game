@@ -14,15 +14,15 @@
 ### Gui  Game : 
 ![POK](https://user-images.githubusercontent.com/73124928/102685585-8c7bac00-41ea-11eb-845d-de6f76ed12e9.png)
 
-### How to use the project:
-<ul>
+### How to use/run the project:
+<ul> 
 <li>Download the project zip to your eclipse or intellij with git clone command </li>
 <li> Run EX2.java locate in gameClient package</li>
 <li>pick your id and after pick your Scenarios game from 0-23 </li>
 <li>Enjoy...</li>
-<br/>
-<li>Or you can press on the EX2.jar  </li>
 </ul>
-
+<br/>
+<strong><em>Or you can press on  EX2.jar file and the program will run</em></strong> <br/> 
+<strong><em>You can also write your id and your Scenario game in cmd prompt || for example 20565611x 12 </em></strong> <br/> 
 
 
